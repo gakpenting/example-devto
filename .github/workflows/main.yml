@@ -19,7 +19,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: generate and pull request
-        uses: spiritbro1/devtoshop-random-generator@v5
+        uses: spiritbro1/devtoshop-random-generator@v6
         with:
           budget: 50
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
