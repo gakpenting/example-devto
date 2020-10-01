@@ -21,7 +21,7 @@ jobs:
       - name: generate and pull request
         uses: spiritbro1/devtoshop-random-generator@v7
         with:
-          budget: 162
+          budget: 161
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           github_repo: ${{ secrets.GH_REPO }} 
 
