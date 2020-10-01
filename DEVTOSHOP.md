@@ -1,17 +1,17 @@
 
 # TOTAL BUDGET : $162.0
 
-# REMAINING BUDGET : $3.0
+# REMAINING BUDGET : $1.0
 
 # LIST OF RANDOM ITEM YOU CAN BUY AT DEV.TO SHOP
 
 |image|url|title|price|
 |-----|---|-----|-----|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-8892b938_345x550.jpg?v=1553704126' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/software-unisex-t-shirt|Software Tee Unisex|$29.0|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-5976ec0b_345x550.jpg?v=1595507387' width='300' height='200' />|https://shop.dev.to/collections/codeland/products/codeland-fanny-pack-1|CodeLand Fanny Pack|$35.0|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-33be0b9e_345x550.jpg?v=1558460256' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/vintage-dev-hat|Vintage DEV Hat|$27.0|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-09b5e7e1_345x550.jpg?v=1557422514' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/towel|DEV Beach Towel|$35.0|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-7f7602e6_345x550.jpg?v=1562940939' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/unisex-dev-tank-top|Unisex DEV Tank Top|$21.0|
-|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/Sticker_Collage_2020_She_Coded-ad_345x550.jpg?v=1583160473' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/shecoded-2020-sticker-pack|SheCoded 2020 Sticker Pack|$12.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-f5460aa8_345x550.jpg?v=1542642628' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/unisex-zip-hoodie|Rainbow DEV Zip Hoodie Unisex|$42.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-75fb21cb_345x550.jpg?v=1542642626' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/out-of-this-world-dev-t-shirt-unisex|Space DEV Tee Unisex (Multiple Colors)|$27.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-4a9fa466_345x550.jpg?v=1556299109' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/dev-unisex-t-shirt|DEV Tee Unisex (Multiple Colors)|$18.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-e0f0e195_345x550.jpg?v=1542642635' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/linux-dev-womens-cut|Linux DEV Women's Cut|$29.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-03ab7499_345x550.jpg?v=1558460410' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/vintage-dev-hat-1|Vintage DEV Hat|$27.0|
+|<img src='https://cdn.shopify.com/s/files/1/1626/8507/products/mockup-4a9fa466_345x550.jpg?v=1556299109' width='300' height='200' />|https://shop.dev.to/collections/2018-new-merch/products/dev-unisex-t-shirt|DEV Tee Unisex (Multiple Colors)|$18.0|
 
-# TOTAL PRICE : $159.0
+# TOTAL PRICE : $161.0
